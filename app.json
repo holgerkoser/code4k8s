@@ -1,0 +1,14 @@
+{
+  "name": "Code for Kubernetes",
+  "description": "Mapping code sub domain to enterprise github",
+  "keywords": [
+    "go-get",
+    "go",
+    "k8s",
+    "code"
+  ],
+  "image": "heroku/go:1.8",
+  "mount_dir": "src/github.com/holgerkoser/code4k8s",
+  "website": "http://github.com/holgerkoser/code4k8s",
+  "repository": "http://github.com/holgerkoser/code4k8s"
+}
